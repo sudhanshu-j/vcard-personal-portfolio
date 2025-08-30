@@ -1,6 +1,6 @@
 # vCard - Personal Portfolio 💼✨
 
-A sleek, modern, and fully responsive personal portfolio website designed to showcase your professional identity, projects, testimonials, and blog in an elegant vCard style.
+A sleek and modern personal portfolio website built with a fully responsive design that adapts seamlessly across devices. It elegantly presents your professional identity, projects, client testimonials, and blog content within a sophisticated vCard-style layout. Featuring interactive elements like project filtering, testimonial modals, and a contact form, this portfolio offers an engaging and user-friendly experience, ideal for freelancers, creatives, and professionals seeking to showcase their work online effectively.
 
 ---
 
